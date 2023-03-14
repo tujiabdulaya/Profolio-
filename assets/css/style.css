@@ -1,0 +1,12 @@
+#nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    
+}
