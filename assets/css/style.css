@@ -34,17 +34,23 @@ font-size: 25px;
 }
 .workload{
     display: flex;
+    justify-content: center;
     
 }
-.row1 img {
-    margin-left: 100px;
-    
-    width: 50%;
-}
+/* .row1 img {
+    margin-left: 10px;
+    width: 100px;
+    height: auto;
+} */
 
 .row1{
-    
-    justify-content: flex-start;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+#main-img{
+    width: 25%;
 }
 
 .work{
@@ -64,10 +70,11 @@ font-size: 25px;
     margin-left: 20px;
 }
 .cr7 img, .lebron img{
-    height: 100px;
+    height: 200px;
     
 }
-.contact{
-    display: flex;
-    justify-content: center;
+.contact-me{
+    font-size: 35px;
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
 }
