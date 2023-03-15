@@ -32,3 +32,42 @@ font-size: 25px;
     margin: 25px;
     padding: 25px;
 }
+.workload{
+    display: flex;
+    
+}
+.row1 img {
+    margin-left: 100px;
+    
+    width: 50%;
+}
+
+.row1{
+    
+    justify-content: flex-start;
+}
+
+.work{
+    font-size: 35px;
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.row2{    
+    display: flex;
+    justify-content: space-evenly;
+    margin: 25px;
+    padding: 25px;
+}
+.cr7{
+    padding: 15px;
+    margin-left: 20px;
+}
+.cr7 img, .lebron img{
+    height: 100px;
+    
+}
+.contact{
+    display: flex;
+    justify-content: center;
+}
