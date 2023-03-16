@@ -1,7 +1,7 @@
 body{
     background-color: aqua;
     font-family: 'Courier New', Courier, monospace;
-    
+
 }
 .section{
     display: flex;
@@ -19,6 +19,7 @@ body{
 
 .name{
 font-size: 25px;
+cursor: default;
 }
 .about-me{
     display: flex;
