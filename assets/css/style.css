@@ -1,4 +1,8 @@
-
+body{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
 .section{
     display: flex;
     justify-content: center;
@@ -37,11 +41,11 @@ font-size: 25px;
     justify-content: center;
     
 }
-/* .row1 img {
+.row1 img {
     margin-left: 10px;
-    width: 100px;
+    width: 50%;
     height: auto;
-} */
+}
 
 .row1{
     display: flex;
