@@ -44,9 +44,13 @@ cursor: default;
 }
 .row1 img {
     margin-left: 10px;
-    width: 50%;
+    width: 75%;
     height: auto;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
 }
+
 
 .row1{
     display: flex;
@@ -56,12 +60,14 @@ cursor: default;
 
 #main-img{
     width: 25%;
+    
 }
 
 .work{
-    font-size: 35px;
-    background-color: aquamarine;
-    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    align-items: center;
+    margin: 25px;
+    padding: 25px;
 
 }
 .row2{    
@@ -72,7 +78,7 @@ cursor: default;
 }
 .cr7{
     padding: 15px;
-    margin-left: 20px;
+    margin-left: 201px;
 }
 .cr7 img, .lebron img{
     height: 200px;
